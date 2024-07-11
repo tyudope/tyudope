@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Selim</h1>
-<h3 align="center">SwiftUI & Python (Flaks)</h3>
+<h3 align="center"> Python </h3>
 
-- 🌱 I’m currently learning **Flask , SwiftUI , Data Structs**
+- 🌱 I **Python Data Structures and Algorithm , Artifical Intelligence **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
