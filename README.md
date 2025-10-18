@@ -34,8 +34,8 @@ Currently pursuing **Computer Science** at the *Polish-Japanese Academy of Infor
 ![LeetCode](https://img.shields.io/badge/LeetCode-F89F1B?style=flat-square&logo=leetcode&logoColor=white)
 
 ---
+## 🌟 Featured Projects
 
-## 🌟 Featured Project
 ### 🧴 [Perfume Recommender](https://perfume-recommender-vj81.onrender.com)
 > A full-stack **perfume recommendation system** powered by **FastAPI**, **GPT-4o**, and **real-world fragrance data**.  
 > Combines algorithmic scoring (cosine similarity, weighted ranking) with AI reasoning for personalized perfume suggestions.
@@ -49,6 +49,19 @@ Currently pursuing **Computer Science** at the *Polish-Japanese Academy of Infor
 
 **🔗 Repo:** [github.com/tyudope/perfume-recommender](https://github.com/tyudope/perfume-recommender)
 
+---
+
+### 💎 [Diamonds Analysis](https://github.com/tyudope/diamond-analysis)
+> A **data analysis and visualization project** exploring diamond pricing trends using Python.  
+> Focuses on relationships between cut, clarity, carat, and price with data storytelling through visual insights.
+
+**🧩 Techniques Used:**
+- Exploratory Data Analysis (EDA) with **pandas** and **NumPy**  
+- Data visualization using **matplotlib** and **seaborn**  
+- Correlation heatmaps, trendlines, and categorical comparisons  
+- Statistical exploration of pricing factors  
+
+**📊 Tech Stack:** Python · pandas · seaborn · matplotlib · Jupyter Notebook
 ---
 
 ## 🧩 What I’m Currently Working On
