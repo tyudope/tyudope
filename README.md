@@ -1,3 +1,11 @@
+## 🚀 Featured Repositories
+
+[![Perfume Recommender](https://github-readme-stats.vercel.app/api/pin/?username=tyudope&repo=perfume-recommender&theme=github_dark)](https://github.com/tyudope/perfume-recommender)
+[![Diamond Analysis](https://github-readme-stats.vercel.app/api/pin/?username=tyudope&repo=diamond-analysis&theme=github_dark)](https://github.com/tyudope/diamond-analysis)
+[![LeetCode Practice Java](https://github-readme-stats.vercel.app/api/pin/?username=tyudope&repo=leetcode-practice-java&theme=github_dark)](https://github.com/tyudope/leetcode-practice-java)
+[![30 Days of Pandas](https://github-readme-stats.vercel.app/api/pin/?username=tyudope&repo=pandas-leetcode-30-day&theme=github_dark)](https://github.com/tyudope/pandas-leetcode-30-day)
+
+ 
  Hey there, I’m **Selim Dalcicek**
 
 🎯 **Aspiring Data Scientist | Machine Learning Engineer | FastAPI Developer**
