@@ -1,4 +1,4 @@
-# 👋 Hey there, I’m **Selim Dalçiçek**
+ Hey there, I’m **Selim Dalcicek**
 
 🎯 **Aspiring Data Scientist | Machine Learning Engineer | FastAPI Developer**
 
@@ -77,12 +77,3 @@ Currently pursuing **Computer Science** at the *Polish-Japanese Academy of Infor
 
 ---
 
-## 🧠 About Me
-- 🔍 Always curious about **how data can make better decisions**  
-- 💡 Strong believer in **clarity, structure, and learning by building**  
-- ☕ Usually found coding late with coffee & music  
-- 🧩 Open to collaborations in **ML, FastAPI**, or **data-driven products**
-
----
-
-⭐ *“Data is only powerful when transformed into action.”*
