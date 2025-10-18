@@ -39,34 +39,36 @@ Currently pursuing **Computer Science** at the *Polish-Japanese Academy of Infor
 ## 🌟 Featured Projects
 
 ### 🧴 [Perfume Recommender](https://perfume-recommender-vj81.onrender.com)
-> A full-stack **perfume recommendation system** powered by **FastAPI**, **GPT-4o**, and **real-world fragrance data**.  
-> Combines algorithmic scoring (cosine similarity, weighted ranking) with AI reasoning for personalized perfume suggestions.
+> A full-stack **perfume recommendation system** powered by **FastAPI**, **GPT-4o-mini**, and real-world fragrance data.  
+> Combines intelligent algorithmic scoring (cosine similarity, weighted ranking) with AI reasoning for truly personalized scent suggestions.
 
-**✨ Highlights:**
-- Weighted hybrid scoring using content similarity, ratings & longevity  
-- Integrated **OpenAI GPT-4o-mini** for natural-language explanations  
-- IP-based rate limiting & LLM usage control (SlowAPI)  
-- Clean UI with AI feedback and user filters (price, notes, longevity, etc.)  
-- Deployed via **Docker** and **Render Cloud**
+**✨ Highlights**
+- Hybrid weighted ranking based on content similarity, user filters, longevity & community ratings  
+- Integrated **OpenAI GPT-4o-mini** for human-like “AI reasoning” explanations  
+- IP-based rate limiting and daily LLM quota management via **SlowAPI**  
+- Responsive UI with smart filters (price, notes, gender, season, longevity, etc.)  
+- Containerized with **Docker** and deployed on **Render Cloud**  
 
-**🔗 Repo:** [github.com/tyudope/perfume-recommender](https://github.com/tyudope/perfume-recommender)
+**🧰 Tech Stack:** FastAPI · Python · Pandas · scikit-learn · OpenAI API · SlowAPI · HTML · CSS · JS · Docker  
+
+**🔗 Repository:** [github.com/tyudope/perfume-recommender](https://github.com/tyudope/perfume-recommender)
 
 ---
 
-### 💎 [Diamonds Analysis](https://github.com/tyudope/diamond-analysis)
-> A **data analysis and visualization project** exploring diamond pricing trends using Python.  
-> Focuses on relationships between cut, clarity, carat, and price with data storytelling through visual insights.
+### 💎 [Diamond Analysis](https://github.com/tyudope/diamond-analysis)
+> A **data analysis and visualization project** exploring diamond pricing dynamics through statistical and visual insights.  
+> Investigates relationships between cut, clarity, carat, and price — uncovering how each factor shapes value.
 
-**🧩 Techniques Used:**
-- Exploratory Data Analysis (EDA) with **pandas** and **NumPy**  
-- Data visualization using **matplotlib** and **seaborn**  
-- Correlation heatmaps, trendlines, and categorical comparisons  
-- Statistical exploration of pricing factors  
+**🧩 Techniques & Insights**
+- Exploratory Data Analysis (EDA) using **pandas**, **NumPy**, and **Jupyter Notebook**  
+- Rich data visualizations via **matplotlib** and **seaborn**  
+- Correlation heatmaps, trendlines, and distribution comparisons  
+- Feature-wise breakdown of diamond pricing influences  
 
-**📊 Tech Stack:** Python · pandas · seaborn · matplotlib · Jupyter Notebook
+**📊 Tech Stack:** Python · pandas · seaborn · matplotlib · Jupyter Notebook  
 
+---
 
-**🔗 Repo:** [github.com/tyudope/diamond-analysis](https://github.com/tyudope/diamond-analysis)
 ---
 
 ## 🧩 What I’m Currently Working On
