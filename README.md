@@ -64,6 +64,9 @@ Currently pursuing **Computer Science** at the *Polish-Japanese Academy of Infor
 - Statistical exploration of pricing factors  
 
 **📊 Tech Stack:** Python · pandas · seaborn · matplotlib · Jupyter Notebook
+
+
+**🔗 Repo:** [github.com/tyudope/diamond-analysis](https://github.com/tyudope/diamond-analysis)
 ---
 
 ## 🧩 What I’m Currently Working On
