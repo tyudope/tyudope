@@ -57,13 +57,6 @@ Currently pursuing **Computer Science** at the *Polish-Japanese Academy of Infor
 - Building **data-centric applications** using cloud infrastructure  
 
 ---
-
-## 📊 GitHub & Coding Stats
-
-| | |
-|:--:|:--:|
-| ![Selim's GitHub stats](https://github-readme-stats.vercel.app/api?username=tyudope&show_icons=true&theme=react&hide_border=true&bg_color=0D1117) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tyudope&layout=compact&theme=react&hide_border=true&bg_color=0D1117) |
-
 ---
 
 ## 🧠 Problem Solving & LeetCode
