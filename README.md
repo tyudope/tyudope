@@ -1,14 +1,14 @@
 
  Hey there, I’m **Selim Dalcicek**
 
-🎯 **Aspiring Data Scientist | Machine Learning Engineer | FastAPI Developer**
+ ** Data Scientist | Machine Learning Engineer**
 
 I love turning **data into insights** and building **intelligent systems** that solve real-world problems.  
 Currently pursuing **Computer Science** at the *Polish-Japanese Academy of Information Technology*, I specialize in **data analysis**, **machine learning**, and **backend development** with modern Python tools.
 
 ---
 
-## 🚀 Tech Stack & Skills
+##  Tech Stack & Skills
 
 ### 🧠 Core Expertise
 | 💻 Domain | 🧩 Tools / Frameworks |
