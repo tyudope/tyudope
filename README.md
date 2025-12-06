@@ -1,10 +1,10 @@
 
  Hey there, I’m **Selim Dalcicek**
 
- **Data Scientist | Machine Learning Engineer**
+ **Aspiring Data Scientist | Machine Learning Engineer**
 
 I love turning **data into insights** and building **intelligent systems** that solve real-world problems.  
-Currently pursuing **Computer Science** at the *Polish-Japanese Academy of Information Technology*, I specialize in **data analysis**, **machine learning**, and **backend development** with modern Python tools.
+Currently pursuing **Computer Science** at the *Polish-Japanese Academy of Information Technology*, I'll specialize in **data analysis**, **machine learning**, and **backend development** with modern Python tools.
 
 ---
 
