@@ -14,7 +14,7 @@ Currently pursuing **Computer Science** at the *Polish-Japanese Academy of Infor
 | 💻 Domain | 🧩 Tools / Frameworks |
 |------------|----------------------|
 | **Data Science & ML** | pandas, NumPy, scikit-learn, matplotlib |
-| **Backend Development** | FastAPI, Flask, RESTful APIs |
+| **Backend Development** | FastAPI, RESTful APIs, SQLAlchemy |
 | **Data Analysis & Visualization** | Jupyter, matplotlib, seaborn |
 | **Algorithms & Problem Solving** | Python, Java, LeetCode |
 | **Cloud & DevOps** | AWS, Docker |
