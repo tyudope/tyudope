@@ -1,5 +1,4 @@
-
- Hey there, I’m **Selim Dalcicek**
+Hey there, I'm **Selim Dalcicek**
 
  **Aspiring Artificial Engineer | Machine Learning Engineer**
 .  
@@ -43,7 +42,7 @@ Currently pursuing **Computer Science** at the *Polish-Japanese Academy of Infor
 
 **✨ Highlights**
 - Hybrid weighted ranking based on content similarity, user filters, longevity & community ratings  
-- Integrated **OpenAI GPT-4o-mini** for human-like “AI reasoning” explanations  
+- Integrated **OpenAI GPT-4o-mini** for human-like "AI reasoning" explanations  
 - IP-based rate limiting and daily LLM quota management via **SlowAPI**  
 - Responsive UI with smart filters (price, notes, gender, season, longevity, etc.)  
 - Containerized with **Docker** and deployed on **Render Cloud**  
@@ -68,9 +67,25 @@ Currently pursuing **Computer Science** at the *Polish-Japanese Academy of Infor
 
 ---
 
+### 🤖 [AI Engineering Lab](https://github.com/tyudope/ai-engineering-lab)
+> A personal workspace for building **AI-powered backend projects**, exploring engineering concepts around LLMs, APIs, and data.  
+> Each project targets a specific layer of AI engineering — from structured output and prompt design to ORM integration and service-layer architecture.
+
+**✨ Projects Inside**
+| 🚀 Project | 📝 Description | 🔑 Key Concepts |
+|------------|---------------|-----------------|
+| **DreamSense** | AI dream reflection with structured, safe output | Output contracts, safety guardrails, schema-first design |
+| **AI DJ** | Generates DJ-ready playlists from a theme and emotional flow | Strict schema validation, structured generation |
+| **Uber Meal Recommender** | Context-aware meal recommendations using order history | Prompt enrichment with DB context, SQLite integration |
+| **Study with AI** | Study plan analyzer powered by AI | SQLAlchemy ORM, LLM wrapper pattern, dependency injection |
+
+**🧰 Tech Stack:** FastAPI · Pydantic v2 · OpenAI API (gpt-4.1-mini) · SQLAlchemy · SQLite · pydantic-settings · Python  
+
+**🔗 Repository:** [github.com/tyudope/ai-engineering-lab](https://github.com/tyudope/ai-engineering-lab)
+
 ---
 
-## 🧩 What I’m Currently Working On
+## 🧩 What I'm Currently Working On
 - Improving **algorithmic recommendation pipelines**  
 - Studying **deep learning foundations**  
 - Building **data-centric applications** using cloud infrastructure  
@@ -89,4 +104,3 @@ Currently pursuing **Computer Science** at the *Polish-Japanese Academy of Infor
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/tyudope)
 
 ---
-
