@@ -85,10 +85,12 @@ Currently pursuing **Computer Science** at the *Polish-Japanese Academy of Infor
 
 ---
 
-## 🧩 What I'm Currently Working On
-- Improving **algorithmic recommendation pipelines**  
-- Studying **deep learning foundations**  
-- Building **data-centric applications** using cloud infrastructure  
+🧩 What I'm Currently Working On
+
+Building and deepening expertise in REST APIs & AI Engineering — designing robust, production-ready LLM-powered services
+Studying Machine Learning Foundations — from classical algorithms to model evaluation and feature engineering
+Exploring Cloud Infrastructure & data-centric applications — deploying scalable pipelines on modern cloud platforms
+Expanding my AI Engineering Lab with new projects around structured generation, agents, and retrieval systems
 
 ---
 ---
