@@ -5,7 +5,7 @@
 </div>
 
 ```ansi
-[1;32mselim@warsaw[0m:[1;34m~[0m$ cat skills.txt
+[1;32mselim@warsaw[0m:[1;34m~[0m$ cat skills.txt
 ml/ds      → pandas · NumPy · scikit-learn · XGBoost · matplotlib
 backend    → Python · FastAPI · SQLAlchemy · Pydantic · REST APIs
 ai-eng     → Claude & OpenAI APIs · tool use / agents · structured output · prompt design
@@ -15,7 +15,7 @@ langs      → Python · Java · TypeScript · SQL
 ```
 
 ```ansi
-[1;32mselim@warsaw[0m:[1;34m~[0m$ ls projects/ --featured
+[1;32mselim@warsaw[0m:[1;34m~[0m$ ls projects/ --featured
 ```
 
 **[semesta/](https://app.cognitivemaxxing.com)** — flagship. Full-stack study OS, designed, built & deployed solo. **[live ↗](https://app.cognitivemaxxing.com)**
@@ -36,7 +36,7 @@ langs      → Python · Java · TypeScript · SQL
 **[feynmannAI/](https://github.com/tyudope/feynmannAI)** — Feynman-method AI chatbot: you explain, it probes gaps. TypeScript · Next.js · Anthropic API.
 
 ```ansi
-[1;32mselim@warsaw[0m:[1;34m~[0m$ ls fundamentals/
+[1;32mselim@warsaw[0m:[1;34m~[0m$ ls fundamentals/
 selimkit-learn/          ML & linear algebra from scratch (Mathematics for ML)
 hands-on-ml-geron/       Hands-On ML notes & experiments (Géron)
 fluent-python-journey/   deep Python (Ramalho)
@@ -48,7 +48,7 @@ diamond-analysis/        EDA — what drives diamond pricing
 <sub>[selimkit-learn](https://github.com/tyudope/selimkit-learn) · [hands-on-ml-geron](https://github.com/tyudope/hands-on-ml-geron) · [Fluent-Python-journey](https://github.com/tyudope/Fluent-Python-journey) · [dsa-and-algorithms](https://github.com/tyudope/dsa-and-algorithms) · [pandas-leetcode-30-day](https://github.com/tyudope/pandas-leetcode-30-day) · [diamond-analysis](https://github.com/tyudope/diamond-analysis)</sub>
 
 ```ansi
-[1;32mselim@warsaw[0m:[1;34m~[0m$ ./stats
+[1;32mselim@warsaw[0m:[1;34m~[0m$ ./stats
 ```
 
 <img src="https://github-readme-stats.vercel.app/api?username=tyudope&show_icons=true&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9&ring_color=39d353" height="155" alt="stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyudope&layout=compact&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9" height="155" alt="langs" />
@@ -56,10 +56,10 @@ diamond-analysis/        EDA — what drives diamond pricing
 <a href="https://leetcode.com/u/dopesthetic/"><img src="https://leetcard.jacoblin.cool/dopesthetic?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="leetcode" /></a>
 
 ```ansi
-[1;32mselim@warsaw[0m:[1;34m~[0m$ ping selim
-→ [1;37mlinkedin.com/in/selimdalcicek[0m
-→ [1;37mselimdalcicek1912@gmail.com[0m
-→ [1;37mleetcode.com/u/dopesthetic[0m
+[1;32mselim@warsaw[0m:[1;34m~[0m$ ping selim
+→ [1;37mlinkedin.com/in/selimdalcicek[0m
+→ [1;37mselimdalcicek1912@gmail.com[0m
+→ [1;37mleetcode.com/u/dopesthetic[0m
 connection established. 0% packet loss.
 ```
 
