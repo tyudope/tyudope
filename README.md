@@ -51,8 +51,6 @@ diamond-analysis/        EDA — what drives diamond pricing
 [1;32mselim@warsaw[0m:[1;34m~[0m$ ./stats
 ```
 
-<img src="https://github-readme-stats.vercel.app/api?username=tyudope&show_icons=true&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9&ring_color=39d353" height="155" alt="stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyudope&layout=compact&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9" height="155" alt="langs" />
-
 <a href="https://leetcode.com/u/dopesthetic/"><img src="https://leetcard.jacoblin.cool/dopesthetic?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="leetcode" /></a>
 
 ```ansi
